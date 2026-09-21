@@ -7,7 +7,7 @@ h1:first-of-type {
 </style>
 
 # Archivio Ufficiale @OFIUCO77
-## Orchestratore di Sistemi IA Multistrato
+## [Orchestratore di Sistemi IA Multistrato](orchestratore_sistemi_ia_multistrato/index.md)
 
 
 Questo archivio certifica la carica e le sue emanazioni operative:
