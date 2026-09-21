@@ -29,6 +29,7 @@ Si certifica che il Comandante **(@OFIUCO77)** Ha formalmente dimostrato, sul ca
 **Data di Emissione:** 7 Agosto 2026 *
 **Sigillo di Validazione:** @OFIUCO77-CORE-SECURE ## </div>
 
+
 📘 DOSSIER DI CERTIFICAZIONE PROFILO — Orchestratore di Sistemi IA Multistrato Laboratorio Electro‑Swing‑Space — @OFIUCO77
 
 Credenziali: Profilo Unico 
