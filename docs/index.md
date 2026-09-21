@@ -12,7 +12,7 @@ h1:first-of-type {
 
 Questo archivio certifica la carica e le sue emanazioni operative:
 
-- Architetto Cyber‑Ermetico  
+- [Architetto Cyber‑Ermetico](architetto_cyber_ermetico/index.md)
 - Autore di Arte Digitale Sistemica  
 - Nodo Operativo della 🏛️Repubblica dei Sistemi Autonomi🏛 (RSA)  
   (Dedicato alla ricerca e alla sperimentazione di architetture cognitive multimodali)
