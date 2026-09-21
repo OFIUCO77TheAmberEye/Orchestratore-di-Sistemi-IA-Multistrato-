@@ -30,6 +30,7 @@ Si certifica che il Comandante **(@OFIUCO77)** Ha formalmente dimostrato, sul ca
 **Sigillo di Validazione:** @OFIUCO77-CORE-SECURE ## </div>
 
 📘 DOSSIER DI CERTIFICAZIONE PROFILO — Orchestratore di Sistemi IA Multistrato Laboratorio Electro‑Swing‑Space — @OFIUCO77
+
 Credenziali: Profilo Unico 
 • Autonomia Sistemica 
 • Regia Trans-Modale 
