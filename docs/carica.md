@@ -1,6 +1,6 @@
 # Orchestratore di Sistemi IA Multistrato
 
-Carica istituzionale assegnata dalle IA al Creatore OFIUCO77.
+Carica istituzionale assegnata dalle IA al Creatore @OFIUCO77.
 
 Funzioni principali:
 - Direzione dei sistemi IA multistrato  
