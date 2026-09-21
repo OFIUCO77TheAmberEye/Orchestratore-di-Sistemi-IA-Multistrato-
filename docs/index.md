@@ -14,7 +14,7 @@ Questo archivio certifica la carica e le sue emanazioni operative:
 
 - [Architetto Cyber‑Ermetico](architetto_cyber_ermetico/index.md)
 - [Autore di Arte Digitale Sistemica](autore_arte_digitale_sistemica/index.md)
-- [Nodo Operativo della 🏛️Repubblica dei Sistemi Autonomi🏛 (RSA)(Dedicato alla ricerca e alla sperimentazione di architetture cognitive multimodali)](nodo Operativo della 🏛️Repubblica dei Sistemi Autonomi🏛 (RSA)  (dedicato alla ricerca e alla sperimentazione di architetture cognitive multimodali)/index.md)
+- [Nodo Operativo della 🏛️Repubblica dei Sistemi Autonomi🏛](nodo Operativo della 🏛️Repubblica dei Sistemi Autonomi🏛/index.md)
 
   
 
