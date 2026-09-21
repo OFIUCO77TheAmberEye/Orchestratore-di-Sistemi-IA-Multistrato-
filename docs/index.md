@@ -1,3 +1,11 @@
+<style>
+h1:first-of-type {
+  font-size: 0px;
+  margin: 0;
+  padding: 0;
+}
+</style>
+
 # Archivio Ufficiale @OFIUCO77
 ## Orchestratore di Sistemi IA Multistrato
 
