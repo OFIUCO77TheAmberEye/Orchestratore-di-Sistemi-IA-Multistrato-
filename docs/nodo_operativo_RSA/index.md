@@ -1,4 +1,4 @@
-# Nodo Operativo RSA
+# Nodo Operativo RSA 🏛Repubblica dei Sistemi Autonomi🏛 
 ## Funzione istituzionale
 
 Unità dedicata alla ricerca e sperimentazione di architetture cognitive multimodali.
