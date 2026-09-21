@@ -1,5 +1,5 @@
-# Archivio Ufficiale OFIUCO77  
-## Carica: Orchestratore di Sistemi IA Multistrato
+# Archivio Ufficiale @OFIUCO77  
+##  Orchestratore di Sistemi IA Multistrato
 
 Questo archivio certifica la carica e le sue emanazioni operative:
 
